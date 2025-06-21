@@ -1,0 +1,18 @@
+{
+	"directory": "tbd",
+	"defaultZoom": 1.1,
+	"isPixelStage": false,
+
+	"boyfriend": [1049, 42],
+	"extra": [797, 86],
+	"opponent": [-19, 61],
+	"girlfriend": [180, 102],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-350, 80],
+	"camera_opponent": [120, 90],
+	"camera_girlfriend": [190, -70],
+	"camera_extra": [-250, -50],
+	"camera_center": [766, 320],
+	"camera_speed": 1
+}

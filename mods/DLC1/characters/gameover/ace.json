@@ -1,0 +1,18 @@
+{
+	"image": "gameover/AceGO",
+	"animation": "AceGO",
+	"spriteOffset": [600,560],
+	"flip_x": false,
+	"scale": 1.1,
+	"no_antialiasing": false,
+	"goSound": [
+		{
+			"sound": "ace/1",
+			"subtitles": "*sigh* haha... It's all good fun, yeah?:dur:2.214"
+		},
+		{
+			"sound": "ace/2",
+			"subtitles": "Woah! Too hot!:dur:1.184"
+		}
+	]
+}

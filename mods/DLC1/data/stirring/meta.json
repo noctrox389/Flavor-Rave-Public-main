@@ -1,0 +1,19 @@
+{
+	"song": {
+		"name": "Stirring",
+		"artist": "Cocopuffs, Noichi, & HighPoweredKeyz",
+		"charter": "Flootena",
+		"titleCardStep": 54,
+		"pauseartist": "nayyco",
+		"pauseArt": "bitter"
+	},
+	"dialogue": {
+		"introDialogue": "dreamcast",
+		"endDialogue": "saturn"
+	},
+	"freeplay": {
+		"characters": ["bitter", "sweet"],
+		"stage": "chicory",
+		"isOnePlayer": false
+	}
+}

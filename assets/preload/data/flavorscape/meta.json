@@ -1,0 +1,22 @@
+{
+	"song": {
+		"name": "Flavorscape",
+		"artist": "Team TBD / Matt$",
+		"titleCardStep": 4,
+		"pauseArt": "togarashi",
+		"charter": "Srife5",
+		"pauseartist": "Phillia Esaya",
+		"extraCharacter": [true, true]
+	},
+	"dialogue": {
+		"introDialogue": "dreamcast"
+	},
+	"control": {
+		"happyEnding": true
+	},
+	"freeplay": {
+		"characters": ["togarashi", "flavorrave"],
+		"stage": "togarashi",
+		"isOnePlayer": false
+	}
+}

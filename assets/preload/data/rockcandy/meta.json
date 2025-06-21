@@ -1,0 +1,18 @@
+{
+	"song": {
+		"name": "Rockcandy",
+		"artist": "Team TBD / HighPoweredKeyz",
+		"charter": "Chompo",
+		"titleCardStep": 10,
+		"pauseartist": "cocopuffs",
+		"pauseArt": "sweet"
+	},
+	"dialogue": {
+		"introDialogue": "dreamcast"
+	},
+	"freeplay": {
+		"characters": ["sour", "sweet"],
+		"stage": "stage",
+		"isOnePlayer": false
+	}
+}

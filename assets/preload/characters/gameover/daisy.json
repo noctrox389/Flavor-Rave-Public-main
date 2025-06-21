@@ -1,0 +1,18 @@
+{
+	"image": "gameover/DaisyGO",
+	"animation": "DaisyGameOver",
+	"spriteOffset": [500,530],
+	"flip_x": false,
+	"scale": 1.2,
+	"no_antialiasing": false,
+	"goSound": [
+		{
+			"sound": "daisy/1",
+			"subtitles": "Ooooh... Brutal...:dur:2.250"
+		},
+		{
+			"sound": "daisy/2",
+			"subtitles": "Too bad...:dur:1.568"
+		}
+	]
+}

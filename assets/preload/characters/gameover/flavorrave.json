@@ -1,0 +1,30 @@
+{
+	"image": "gameover/FlavorRaveGO",
+	"animation": "FlavorRaveGO",
+	"spriteOffset": [700,450],
+	"flip_x": false,
+	"scale": 1.3,
+	"no_antialiasing": false,
+	"goSound": [
+		{
+			"sound": "sour/1",
+			"subtitles": "Yo, what!?:dur:2.319"
+		},
+		{
+			"sound": "sour/2",
+			"subtitles": "Now that's just stupid!:dur:1.593"
+		},
+		{
+			"sound": "sweet/1",
+			"subtitles": "Please! One more chance!:dur:2.319"
+		},
+		{
+			"sound": "flavorrave/1",
+			"subtitles": "Let's try that again.:dur:2.112"
+		},
+		{
+			"sound": "sweet/2",
+			"subtitles": "Curtain call...:dur:1.380"
+		}
+	]
+}

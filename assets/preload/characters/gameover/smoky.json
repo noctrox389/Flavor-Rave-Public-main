@@ -1,0 +1,18 @@
+{
+	"image": "gameover/smokyGO",
+	"animation": "smokey",
+	"spriteOffset": [450,450],
+	"flip_x": false,
+	"scale": 1.3,
+	"no_antialiasing": false,
+	"goSound": [
+		{
+			"sound": "smoky/1",
+			"subtitles": "Hmph...:dur:1.069[NL]More practice...:dur:1.276"
+		},
+		{
+			"sound": "smoky/2",
+			"subtitles": "Ugh...:dur:1.602[NL]Next Time.:dur:0.995"
+		}
+	]
+}

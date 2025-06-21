@@ -1,0 +1,21 @@
+{
+	"song": {
+		"name": "TIMESHOCK!",
+		"artist": "Team TBD",
+		"charter": "Chompo",
+		"pauseArt": "flavorrave",
+		"pauseartist": "Cruise Elroy",
+		"titleCardStep": 64
+	},
+	"dialogue": {
+		"introDialogue": "dreamcast"
+	},
+	"control": {
+		"happyEnding": true
+	},
+	"freeplay": {
+		"characters": ["sour", "sweet"],
+		"stage": "stage",
+		"isOnePlayer": false
+	}
+}

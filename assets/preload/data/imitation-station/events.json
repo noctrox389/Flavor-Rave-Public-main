@@ -1,0 +1,410 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Force BF/DAD on character specific notes",
+						"true",
+						""
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1"
+					]
+				]
+			],
+			[
+				1600,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"16"
+					]
+				]
+			],
+			[
+				2200,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"22"
+					]
+				]
+			],
+			[
+				3200,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"32"
+					]
+				]
+			],
+			[
+				4800,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"48"
+					]
+				]
+			],
+			[
+				5400,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"54"
+					]
+				]
+			],
+			[
+				6400,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"64"
+					]
+				]
+			],
+			[
+				8000,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"80"
+					]
+				]
+			],
+			[
+				8800,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"88"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"96"
+					]
+				]
+			],
+			[
+				11200,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"112"
+					]
+				]
+			],
+			[
+				12800,
+				[
+					[
+						"Change Camera Zoom",
+						"0.9",
+						"0.7"
+					],
+					[
+						"Note Camera Movement",
+						"8",
+						""
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"128"
+					]
+				]
+			],
+			[
+				38400,
+				[
+					[
+						"Change Camera Zoom",
+						"0.74",
+						"0.7"
+					]
+				]
+			],
+			[
+				64000,
+				[
+					[
+						"Change Camera Zoom",
+						"0.84",
+						"0.7"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"640"
+					]
+				]
+			],
+			[
+				64600,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"646"
+					]
+				]
+			],
+			[
+				70000,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"700"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"768"
+					]
+				]
+			],
+			[
+				82600,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"826"
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Change Camera Zoom",
+						"1",
+						"0.5"
+					],
+					[
+						"Screen Flash",
+						"0.5",
+						"white"
+					],
+					[
+						"Change Character",
+						"gf",
+						"nikku-imitation-i"
+					],
+					[
+						"Change Camera Bump frequency",
+						"8",
+						"1"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"896"
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"900"
+					]
+				]
+			],
+			[
+				95600,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"956"
+					]
+				]
+			],
+			[
+				102100,
+				[
+					[
+						"Change Character",
+						"gf",
+						"nikku-imitation-y"
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Change Camera Zoom",
+						"0.6",
+						"3"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1024"
+					]
+				]
+			],
+			[
+				109000,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1090"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1152"
+					]
+				]
+			],
+			[
+				115500,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1155"
+					]
+				]
+			],
+			[
+				115600,
+				[
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"0.7"
+					],
+					[
+						"Change Character",
+						"dad",
+						"nikku-close"
+					],
+					[
+						"Change Character",
+						"bf",
+						"umami-close"
+					],
+					[
+						"Change Camera Zoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				115800,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1158"
+					]
+				]
+			],
+			[
+				140800,
+				[
+					[
+						"Change Camera Bump frequency",
+						"8",
+						"1"
+					],
+					[
+						"Change Camera Zoom",
+						"1.05",
+						"1"
+					]
+				]
+			],
+			[
+				141800,
+				[
+					[
+						"Change Note Skin",
+						"dad",
+						"ratings/nikku/NikkuMimicNOTE_assets"
+					]
+				]
+			],
+			[
+				142800,
+				[
+					[
+						"Change Strum Skin",
+						"dad",
+						"ratings/nikku/NikkuMimicNOTE_assets"
+					]
+				]
+			],
+			[
+				143400,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1434"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Spawn Spinning Particles",
+						"enzync/umamiparticle",
+						"800"
+					]
+				]
+			],
+			[
+				167600,
+				[
+					[
+						"Spawn Spinning Particles",
+						"enzync/umamiparticle",
+						"800"
+					]
+				]
+			]
+		]
+	}
+}

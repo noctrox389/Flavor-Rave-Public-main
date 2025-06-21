@@ -1,0 +1,411 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play SFX",
+						"typing",
+						"1"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1"
+					]
+				]
+			],
+			[
+				5142.85714285714,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"48"
+					]
+				]
+			],
+			[
+				5571.42857142857,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"52"
+					]
+				]
+			],
+			[
+				5678.57142857143,
+				[
+					[
+						"Play SFX",
+						"jump",
+						"1"
+					]
+				]
+			],
+			[
+				6857.14285714286,
+				[
+					[
+						"Play Animation",
+						"intro",
+						"dad"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"64"
+					]
+				]
+			],
+			[
+				12000,
+				[
+					[
+						"Play SFX",
+						"npt-3",
+						"1"
+					],
+					[
+						"Play Animation",
+						"count3",
+						"dad"
+					],
+					[
+						"Change Camera Zoom",
+						"1.35",
+						"0.3"
+					]
+				]
+			],
+			[
+				12321.4285714286,
+				[
+					[
+						"Play Animation",
+						"count2",
+						"dad"
+					]
+				]
+			],
+			[
+				12428.5714285714,
+				[
+					[
+						"Play SFX",
+						"npt-2",
+						"1"
+					],
+					[
+						"Change Camera Zoom",
+						"1.4",
+						"0.3"
+					]
+				]
+			],
+			[
+				12857.1428571429,
+				[
+					[
+						"Play SFX",
+						"npt-1",
+						"1"
+					],
+					[
+						"Play Animation",
+						"count1",
+						"dad"
+					],
+					[
+						"Change Camera Zoom",
+						"1.45",
+						"0.3"
+					]
+				]
+			],
+			[
+				13071.4285714286,
+				[
+					[
+						"Play SFX",
+						"npt-jam",
+						"1"
+					]
+				]
+			],
+			[
+				13285.7142857143,
+				[
+					[
+						"Play Animation",
+						"jam",
+						"dad"
+					],
+					[
+						"Change Camera Zoom",
+						"1.5",
+						"0.3"
+					]
+				]
+			],
+			[
+				13714.2857142857,
+				[
+					[
+						"Screen Flash",
+						"0.5",
+						"white"
+					],
+					[
+						"Change Camera Bump frequency",
+						"8",
+						"1"
+					],
+					[
+						"Add Camera Zoom",
+						"0.015",
+						"0.02"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"128"
+					]
+				]
+			],
+			[
+				15642.8571428571,
+				[
+					[
+						"Play Animation",
+						"powerdown",
+						"dad"
+					]
+				]
+			],
+			[
+				28071.4285714286,
+				[
+					[
+						"Play Animation",
+						"powerdown",
+						"dad"
+					]
+				]
+			],
+			[
+				41142.8571428572,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"384"
+					]
+				]
+			],
+			[
+				54857.1428571429,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"512"
+					]
+				]
+			],
+			[
+				58500,
+				[
+					[
+						"Play Animation",
+						"powerdown",
+						"dad"
+					]
+				]
+			],
+			[
+				61500,
+				[
+					[
+						"Play Animation",
+						"powerdown",
+						"dad"
+					]
+				]
+			],
+			[
+				68464.2857142858,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"639"
+					]
+				]
+			],
+			[
+				82178.5714285714,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"767"
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Change Camera Bump frequency",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				96107.1428571428,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"897"
+					]
+				]
+			],
+			[
+				123321.428571428,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1151"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Change Camera Zoom",
+						"1",
+						"1.4"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1344"
+					]
+				]
+			],
+			[
+				147428.571428571,
+				[
+					[
+						"Change Camera Zoom",
+						"14",
+						"3.4"
+					]
+				]
+			],
+			[
+				147642.857142857,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1378"
+					]
+				]
+			],
+			[
+				148928.571428571,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1390"
+					]
+				]
+			],
+			[
+				150750,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1407"
+					]
+				]
+			],
+			[
+				150857.142857143,
+				[
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"1"
+					],
+					[
+						"Spawn Particles",
+						"closeup/virtualheart",
+						"500"
+					],
+					[
+						"Add Camera Zoom",
+						"0",
+						"0.03"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1408"
+					]
+				]
+			],
+			[
+				174857.142857143,
+				[
+					[
+						"Spawn Particles",
+						"closeup/virtualheart",
+						"500"
+					]
+				]
+			],
+			[
+				178285.714285714,
+				[
+					[
+						"Change Camera Bump frequency",
+						"16",
+						"1"
+					],
+					[
+						"Screen Flash",
+						"1.4",
+						"cyan"
+					]
+				]
+			],
+			[
+				185142.857142857,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.04"
+					],
+					[
+						"Screen Flash",
+						"1.4",
+						"cyan"
+					]
+				]
+			]
+		]
+	}
+}

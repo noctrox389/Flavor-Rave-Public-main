@@ -1,0 +1,18 @@
+{
+	"image": "gameover/SunGO",
+	"animation": "SunGameOver",
+	"spriteOffset": [500,538],
+	"flip_x": false,
+	"scale": 1.2,
+	"no_antialiasing": false,
+	"goSound": [
+		{
+			"sound": "sundried/1",
+			"subtitles": "This is embarrasing:dur:1.942"
+		},
+		{
+			"sound": "sundried/2",
+			"subtitles": "Womp womp :(:dur:1.227"
+		}
+	]
+}

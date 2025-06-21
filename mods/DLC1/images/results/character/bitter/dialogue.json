@@ -1,0 +1,34 @@
+{
+	"dialogue": [
+		{
+			"name": "...",
+			"rank": "",
+			"boxSprite": "box"
+		},
+		{
+			"name": "No... This doesn't feel like victory...",
+			"rank": "S",
+			"boxSprite": "box"
+		},
+		{
+			"name": "What have I done..?",
+			"rank": "A",
+			"boxSprite": "box"
+		},
+		{
+			"name": "Why now... ",
+			"rank": "B",
+			"boxSprite": "box"
+		},
+		{
+			"name": "Foolish... Foolish..!",
+			"rank": "C",
+			"boxSprite": "box"
+		},
+		{
+			"name": "...",
+			"rank": "D",
+			"boxSprite": "box"
+		}
+	]
+}

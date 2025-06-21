@@ -1,0 +1,29 @@
+{
+	"songs": [
+		["Cranberry Pop"],
+		["Rockcandy"],
+		["TIMESHOCK!"]
+	],
+
+	"weekCharacters": [
+		"Sour",
+		"Sweet",
+		"Empty",
+		"Empty"
+	],
+	"charaSelect": [
+		"sweet",
+		"sour"
+	],
+	"weekBefore": "",
+	"weekType": "Chapter",
+	"weekBackground": "showroom",
+	"storyName": "Chapter 1",
+	"weekName": "A Showstopping Start",
+	"location": "Showman's Showroom",
+	"startUnlocked": true,
+	"categoryType": "story",
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Normal"
+}

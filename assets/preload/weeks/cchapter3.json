@@ -1,0 +1,30 @@
+{
+	"songs": [
+		["Caramelize"],
+		["Wasabi"],
+		["Flavorscape"]
+	],
+
+	"weekCharacters": [
+		"Sour",
+		"Sweet",
+		"Spicy",
+		"Smoky"
+	],
+	"charaSelect": [
+		"flavorrave",
+		"togarashi"
+	],
+	"weekBackground": "togarashi",
+	"weekType": "Chapter",
+	"storyName": "Chapter 3",
+	"weekBefore": "binterlude2",
+	"weekName": "Rave Awakened!",
+	"location": "Togarashi Town",
+	"startUnlocked": false,
+	"categoryType": "story",
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"difficulties": "Normal",
+	"recommended": 2
+}

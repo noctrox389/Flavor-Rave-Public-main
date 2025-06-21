@@ -1,0 +1,18 @@
+{
+	"song": {
+		"name": "Wasabi",
+		"artist": "DPZ",
+		"charter": "Chompo",
+		"titleCardStep": 15,
+		"pauseartist": "Phillia Esaya",
+		"pauseArt": "smoky"
+	},
+	"dialogue": {
+		"introDialogue": "dreamcast"
+	},
+	"freeplay": {
+		"characters": ["smoky", "sour"],
+		"stage": "backstreets",
+		"isOnePlayer": false
+	}
+}

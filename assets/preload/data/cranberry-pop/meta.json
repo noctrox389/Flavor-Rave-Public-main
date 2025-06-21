@@ -1,0 +1,18 @@
+{
+	"song": {
+		"name": "Cranberry Pop",
+		"artist": "DatDavi",
+		"charter": "Chompo",
+		"pauseArt": "sour",
+		"pauseartist": "Millxr",
+		"titleCardStep": 15
+	},
+	"dialogue": {
+		"introDialogue": "dreamcast"
+	},
+	"freeplay": {
+		"characters": ["sour", "sweet"],
+		"stage": "showroom",
+		"isOnePlayer": false
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"image": "gameover/SaltyGO",
+	"animation": "SaltyGO",
+	"spriteOffset": [660,670],
+	"flip_x": false,
+	"scale": 1,
+	"no_antialiasing": false,
+	"goSound": [
+		{
+			"sound": "salty/1",
+			"subtitles": "YARRR:dur:0.730[NL]Sea water in me good eye!:dur:1.988"
+		},
+		{
+			"sound": "salty/2",
+			"subtitles": "Can't be losing me sea legs now.:dur:2.772[NL]I only got one left.:dur:1.263"
+		}
+	]
+}

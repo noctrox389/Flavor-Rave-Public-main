@@ -1,0 +1,24 @@
+{
+	"song": {
+		"name": "Lodestar Shanty",
+		"artist": "Team TBD / Juno Songs",
+		"charter": "Cerbera",
+		"titleCardStep": 96,
+		"pauseartist": "Juno Songs",
+		"pauseArt": "salty"
+	},
+	"control": {
+		"hasLyrics": true,
+		"noteChangesStrum": true,
+		"noteChangesRating": true,
+		"disableHealth": false
+	},
+	"dialogue": {
+		"introDialogue": "dreamcast"
+	},
+	"freeplay": {
+		"characters": ["sour", "salty"],
+		"stage": "lady-morton",
+		"isOnePlayer": true
+	}
+}

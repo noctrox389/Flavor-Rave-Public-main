@@ -1,0 +1,18 @@
+{
+	"image": "gameover/SweetGO",
+	"animation": "SweetGameOver",
+	"spriteOffset": [600,450],
+	"flip_x": false,
+	"scale": 1.2,
+	"no_antialiasing": false,
+	"goSound": [
+		{
+			"sound": "sweet/1",
+			"subtitles": "Please! One more chance!:dur:2.319"
+		},
+		{
+			"sound": "sweet/2",
+			"subtitles": "Curtain call...:dur:1.380"
+		}
+	]
+}

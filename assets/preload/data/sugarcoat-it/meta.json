@@ -1,0 +1,21 @@
+{
+	"song": {
+		"name": "Sugarcoat It",
+		"charter": "Chompo",
+		"artist": "DatDavi",
+		"pauseArt": "flavorrave",
+		"pauseartist": "Cruise Elroy",
+		"titleCardStep": 14
+	},
+	"dialogue": {
+		"introDialogue": "dreamcast"
+	},
+	"control": {
+		"happyEnding": true
+	},
+	"freeplay": {
+		"characters": ["sour", "sweet"],
+		"stage": "showroom",
+		"isOnePlayer": false
+	}
+}

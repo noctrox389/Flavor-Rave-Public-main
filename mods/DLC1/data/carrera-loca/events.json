@@ -1,0 +1,631 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Screen Flash",
+						"2",
+						"yellow"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1"
+					]
+				]
+			],
+			[
+				5454.54545454545,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"60"
+					]
+				]
+			],
+			[
+				8545.45454545454,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"94"
+					]
+				]
+			],
+			[
+				27636.3636363636,
+				[
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				29090.9090909091,
+				[
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				49454.5454545455,
+				[
+					[
+						"Change Camera Bump frequency",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				50909.0909090909,
+				[
+					[
+						"Play Animation",
+						"raveintro",
+						"dad"
+					]
+				]
+			],
+			[
+				50909.0909090909,
+				[
+					[
+						"Change Camera Bump frequency",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				51272.7272727273,
+				[
+					[
+						"Play SFX",
+						"RaveEngage",
+						"0.9"
+					]
+				]
+			],
+			[
+				51636.3636363637,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"568"
+					]
+				]
+			],
+			[
+				52363.6363636364,
+				[
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"1.2"
+					]
+				]
+			],
+			[
+				52727.2727272727,
+				[
+					[
+						"Screen Flash",
+						"0.4",
+						"cyan"
+					],
+					[
+						"Play SFX",
+						"RAVEFlash",
+						"0.9"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sour-run-rave"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"580"
+					]
+				]
+			],
+			[
+				75636.3636363637,
+				[
+					[
+						"Change Camera Bump frequency",
+						"8",
+						"1"
+					]
+				]
+			],
+			[
+				93090.9090909091,
+				[
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"1"
+					]
+				]
+			],
+			[
+				96000.0000000001,
+				[
+					[
+						"Change Camera Bump frequency",
+						"16",
+						"1"
+					],
+					[
+						"Play Animation",
+						"toss",
+						"bf"
+					]
+				]
+			],
+			[
+				96636.3636363637,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1063"
+					]
+				]
+			],
+			[
+				96727.2727272728,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1064"
+					]
+				]
+			],
+			[
+				97454.5454545455,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1072"
+					]
+				]
+			],
+			[
+				98909.090909091,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					],
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					],
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"1.2"
+					],
+					[
+						"Screen Flash",
+						"0.3",
+						"orange"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1088"
+					]
+				]
+			],
+			[
+				122181.818181818,
+				[
+					[
+						"Screen Flash",
+						"1.2",
+						"yellow"
+					],
+					[
+						"Change Camera Bump frequency",
+						"16",
+						"1"
+					]
+				]
+			],
+			[
+				122181.818181818,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1344"
+					]
+				]
+			],
+			[
+				122363.636363636,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				128363.636363636,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1412"
+					]
+				]
+			],
+			[
+				130545.454545455,
+				[
+					[
+						"Play SFX",
+						"raveless",
+						"0.9"
+					]
+				]
+			],
+			[
+				130909.090909091,
+				[
+					[
+						"Screen Flash",
+						"0.5",
+						"cyan"
+					],
+					[
+						"Change Character",
+						"dad",
+						"sour-run"
+					],
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1440"
+					]
+				]
+			],
+			[
+				133818.181818182,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1472"
+					]
+				]
+			],
+			[
+				135272.727272727,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1488"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1584"
+					]
+				]
+			],
+			[
+				145454.545454545,
+				[
+					[
+						"Change Camera Bump frequency",
+						"8",
+						"1"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1600"
+					]
+				]
+			],
+			[
+				157090.909090909,
+				[
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"1"
+					],
+					[
+						"Call on Luas",
+						"frantic",
+						"1"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1728"
+					]
+				]
+			],
+			[
+				157818.181818182,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"2"
+					]
+				]
+			],
+			[
+				158545.454545454,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"1"
+					]
+				]
+			],
+			[
+				159272.727272727,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"2"
+					]
+				]
+			],
+			[
+				160000,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"1"
+					]
+				]
+			],
+			[
+				160727.272727273,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"2"
+					]
+				]
+			],
+			[
+				161454.545454545,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"1"
+					]
+				]
+			],
+			[
+				162181.818181818,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"2"
+					]
+				]
+			],
+			[
+				162909.090909091,
+				[
+					[
+						"Set Camera Speed",
+						"3.4",
+						""
+					],
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"1.1"
+					],
+					[
+						"Call on Luas",
+						"frantic",
+						"1"
+					]
+				]
+			],
+			[
+				163272.727272727,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"2"
+					]
+				]
+			],
+			[
+				163636.363636363,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"1"
+					]
+				]
+			],
+			[
+				164000,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"2"
+					]
+				]
+			],
+			[
+				164363.636363636,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"1"
+					]
+				]
+			],
+			[
+				164727.272727273,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"2"
+					]
+				]
+			],
+			[
+				165090.909090909,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"1"
+					]
+				]
+			],
+			[
+				165454.545454545,
+				[
+					[
+						"Call on Luas",
+						"frantic",
+						"2"
+					]
+				]
+			],
+			[
+				165818.181818182,
+				[
+					[
+						"Change Camera Bump frequency",
+						"16",
+						"1.3"
+					],
+					[
+						"Call on Luas",
+						"thingie",
+						"1824"
+					]
+				]
+			],
+			[
+				167272.727272727,
+				[
+					[
+						"Set Camera Speed",
+						"2.4",
+						""
+					]
+				]
+			],
+			[
+				168636.363636363,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"1855"
+					]
+				]
+			],
+			[
+				168727.272727272,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						""
+					],
+					[
+						"Change Camera Bump frequency",
+						"8",
+						"1.1"
+					],
+					[
+						"Screen Flash",
+						"0.3",
+						"blue"
+					]
+				]
+			],
+			[
+				190545.454545454,
+				[
+					[
+						"Change Camera Bump frequency",
+						"4",
+						"1.1"
+					]
+				]
+			],
+			[
+				193454.545454545,
+				[
+					[
+						"Change Camera Bump frequency",
+						"16",
+						"1.1"
+					]
+				]
+			],
+			[
+				194545.454545454,
+				[
+					[
+						"Call on Luas",
+						"thingie",
+						"2140"
+					]
+				]
+			]
+		]
+	}
+}
