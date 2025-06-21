@@ -8,18 +8,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@main
         
       - name: Setup Java JDK
-        uses: actions/setup-java@v3
+        uses: actions/setup-java@main
         with:
           distribution: 'temurin'
           java-version: '17'
 
       - name: Setup Haxe
-        uses: krdlab/setup-haxe@v1
+        uses: krdlab/setup-haxe@master
         with:
-          haxe-version: '4.3.6'
+          haxe-version: 4.3.6
 
       - name: Install Libraries
         run: |
@@ -33,21 +33,21 @@ jobs:
           haxelib run lime config JAVA_HOME $JAVA_HOME
           haxelib run lime config ANDROID_SETUP true 
 
-      - name: Gradle Configuration
+      - name: Something
         run: |
           mkdir -p ~/.gradle
           echo "org.gradle.jvmargs=-Xmx4g" >> ~/.gradle/gradle.properties
 
-      # Decrypt the keystore - Versión corregida
+      # Decrypt the keystore
       - name: Decrypt Keystore
         run: |
-          echo "${{ secrets.ENCRYPTION_PASSWORD }}" | openssl enc -aes-256-cbc -pbkdf2 -iter 10000 -d -in flavor-rave-key.keystore.enc -out flavor-rave-key.keystore -pass stdin
+          echo ${{ secrets.ENCRYPTION_PASSWORD }} | openssl enc -aes-256-cbc -d -in flavor-rave-key.keystore.enc -out flavor-rave-key.keystore -pass stdin
 
       - name: Compile
         run: haxelib run lime build android
 
       - name: Upload Artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@main
         with:
           name: androidBuild
           path: export/release/android/bin/app/build/outputs/apk/release/*.apk
