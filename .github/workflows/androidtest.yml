@@ -39,9 +39,9 @@ jobs:
           echo "org.gradle.jvmargs=-Xmx4g" >> ~/.gradle/gradle.properties
 
       # Decrypt the keystore - Versión corregida
-- name: Decrypt Keystore
-  run: |
-    echo "${{ secrets.ENCRYPTION_PASSWORD }}" | openssl enc -aes-256-cbc -md sha256 -d -in flavor-rave-key.keystore.enc -out flavor-rave-key.keystore -pass stdin
+      - name: Decrypt Keystore
+        run: |
+          echo "${{ secrets.ENCRYPTION_PASSWORD }}" | openssl enc -aes-256-cbc -md sha256 -d -in flavor-rave-key.keystore.enc -out flavor-rave-key.keystore -pass stdin
 
       - name: Compile
         run: haxelib run lime build android
