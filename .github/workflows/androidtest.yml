@@ -1,54 +1,49 @@
-name: Android Build Test
-
+name: Android
 on:
+  pull_request:
+    branches: [ main ]
   workflow_dispatch:
-
 jobs:
   Android:
+    name: Android
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@main
-        
-      - name: Setup Java JDK
-        uses: actions/setup-java@main
+
+      - name: Setup Android NDK
+        id: setup-ndk
+        uses: nttld/setup-ndk@main
         with:
-          distribution: 'temurin'
-          java-version: '17'
+          ndk-version: r21e
 
       - name: Setup Haxe
         uses: krdlab/setup-haxe@master
         with:
           haxe-version: 4.3.6
 
-      - name: Install Libraries
+      - name: Install Haxelib
         run: |
+          haxelib setup ~/haxelib
           haxelib install hmm --quiet
           haxelib run hmm install --quiet
 
-      - name: Configure Android
+      - name: Setup Lime
         run: |
+          haxelib run lime setup -alias -y
           haxelib run lime config ANDROID_SDK $ANDROID_HOME
-          haxelib run lime config ANDROID_NDK_ROOT $ANDROID_NDK_LATEST_HOME
-          haxelib run lime config JAVA_HOME $JAVA_HOME
-          haxelib run lime config ANDROID_SETUP true 
-
-      - name: Something
-        run: |
-          mkdir -p ~/.gradle
-          echo "org.gradle.jvmargs=-Xmx4g" >> ~/.gradle/gradle.properties
-
-      # Decrypt the keystore - Versión corregida
-      - name: Decrypt Keystore
-        run: |
-          echo "${{ secrets.ENCRYPTION_PASSWORD }}" | openssl enc -aes-256-cbc -md sha256 -d -in flavor-rave-key.keystore.enc -out flavor-rave-key.keystore -pass stdin
+          haxelib run lime config ANDROID_NDK_ROOT $ANDROID_NDK_HOME
+          haxelib run lime config JAVA_HOME $JAVA_HOME_17_X64
+          haxelib run lime config ANDROID_SETUP true
+        env:
+          ANDROID_NDK_HOME: ${{ steps.setup-ndk.outputs.ndk-path }}
 
       - name: Compile
-        run: haxelib run lime build android
+        run: haxelib run lime build android -ONLY_ARMV7 -final
 
       - name: Upload Artifact
         uses: actions/upload-artifact@main
         with:
           name: androidBuild
-          path: export/release/android/bin/app/build/outputs/apk/release/*.apk
-          if-no-files-found: error
+          path: export/*/android/bin/app/build/outputs/apk/*/*.apk
+          if-no-files-found: warn
